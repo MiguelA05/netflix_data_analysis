@@ -10,7 +10,7 @@ Aplicar técnicas de:
 - visualización de datos.
 
 ## Archivo principal
-- `/home/runner/work/netflix_data_analysis/netflix_data_analysis/netflix_data_analysis.ipynb`
+- `netflix_data_analysis.ipynb`
 
 ## Requisitos sugeridos
 Para ejecutar el notebook se recomienda contar con:
